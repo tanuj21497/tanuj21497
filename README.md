@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanuj Kamboj</h1>
 <h3 align="center">Competitive Programmer and a passionate Developer</h3>
-<img align="right" alt="coding" width="400" src="![giphy](https://github.com/tanuj21497/tanuj21497/assets/108824263/0b8da48c-ffb3-4280-a9c1-c6ac73f2cbda)">
+<!-- <img alt="coding" src="![giphy](https://github.com/tanuj21497/tanuj21497/assets/108824263/0b8da48c-ffb3-4280-a9c1-c6ac73f2cbda)" /> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanuj21497&label=Profile%20views&color=0e75b6&style=flat" alt="tanuj21497" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanuj21497" alt="tanuj21497" /></a> </p>
