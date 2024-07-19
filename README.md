@@ -13,7 +13,6 @@
 
 - 📄 Know about my experiences [https://github.com/tanuj21497/Resume/blob/main/resume.pdf](https://github.com/tanuj21497/Resume/blob/main/resume.pdf)
 
-- ⚡ Fun fact **Baby Shark do do do do...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
